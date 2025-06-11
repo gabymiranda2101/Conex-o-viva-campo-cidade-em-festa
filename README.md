@@ -1,0 +1,1 @@
+Neste jogo temos um caminhão com a função de levar itens da cidade para o campo e do campo para a cidade. Com ele nós entendemos sobre a conexão campo cidade e percebemos como um é importante para o outro.
